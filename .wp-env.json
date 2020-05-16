@@ -1,0 +1,12 @@
+{
+  "core": null,
+  "plugins": [],
+  "themes": [
+    "https://downloads.wordpress.org/theme/twentytwenty.latest-stable.zip"
+  ],
+  "port": 3000,
+  "config": {
+    "WP_DEBUG": true,
+    "SCRIPT_DEBUG": true
+  }
+}
